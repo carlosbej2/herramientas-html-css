@@ -32,13 +32,14 @@
 158C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133557783509334659 0
 156C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\caniuse-lite\data\features\permissions-policy.js133557783524519659 0
 145C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\rimraf\dist\commonjs\rimraf-manual.js133557788904763167 0
-99C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist133557831918007896 1
+99C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist133557843522053657 1
 145C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\helpers\isNegativeZero.js133557788915753164 0
 141C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\globalthis\test\implementation.js133557788899558163 0
 132C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\string.prototype.trimend133557788903288162 1
 163C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133557783496319654 0
 133C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\has-symbols\test\tests.js133557788900948161 0
 139C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2019\DayFromYear.js133557788910638164 0
+110C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.html133557843521703652 0
 147C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\css-tree\lib\syntax\config\generator.js133557783511229664 0
 130C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\path-scurry\LICENSE.md133557788903593162 0
 159C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133557783511924659 0
@@ -48,8 +49,8 @@
 139C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\caniuse-lite\data\regions\ER.js133557783515349654 0
 115C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\@isaacs133557788891908162 1
 143C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\signal-exit\dist\cjs\index.d.ts.map133557788903113166 0
-118C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.4d663569.css133557831917957886 0
 139C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\@parcel\diagnostic\package.json133557783527204662 0
+118C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.4d663569.css133557843521738674 0
 120C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\mdn-data\api133557783496304659 1
 130C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\css-tree\lib\tokenizer133557783513844653 1
 158C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\caniuse-lite\data\features\css-media-resolution.js133557783511524663 0
@@ -81,11 +82,11 @@
 145C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\which-typed-array\.github\FUNDING.yml133557788902978175 0
 135C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\regenerator-runtime\LICENSE133557783490054655 0
 146C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\string.prototype.trimend\test\tests.js133557788902703169 0
-122C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.4d663569.css.map133557831917987880 0
 140C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\htmlparser2\lib\FeedHandler.d.ts133557783496244655 0
+122C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.4d663569.css.map133557843521783666 0
 149C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2023\DeletePropertyOrThrow.js133557788911248163 0
-121C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.0641b553.js.map133557831917987880 0
 207C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\local-plugin.js133557783529509665 0
+121C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.0641b553.js.map133557843522048656 0
 146C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2020\ArraySpeciesCreate.js133557788907128174 0
 131C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\utility-types\README.md133557783496639660 0
 127C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\object-keys\LICENSE133557788900538167 0
@@ -99,6 +100,7 @@
 112C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\lmdb133557783510634668 1
 139C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\caniuse-lite\data\regions\CY.js133557783513984656 0
 142C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\type-fest\source\partial-deep.d.ts133557783500764655 0
+117C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.0641b553.js133557843522028676 0
 142C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\typed-array-byte-length\index.d.ts133557788901588163 0
 121C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\@lezer\common133557783501389663 1
 162C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\glob\node_modules\minimatch\dist\mjs\unescape.d.ts.map133557788905628165 0
@@ -158,7 +160,7 @@
 161C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133557783510734654 0
 133C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2022\floor.js133557788912083162 0
 131C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2020\tables133557788929513168 1
-98C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\src133557798498832231 1
+98C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\src133557842585924251 1
 123C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\clone\clone.iml133557783495799653 0
 112C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\csso133557783505739664 1
 124C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\parcel\README.md133557783521209654 0
@@ -181,7 +183,7 @@
 151C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2021\SymbolDescriptiveString.js133557788924053173 0
 145C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2019\SetFunctionLength.js133557788922543155 0
 144C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\csso\lib\replace\atrule\keyframes.js133557783504619653 0
-110C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\src\header.html133557798529037232 0
+110C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\src\header.html133557842604067905 0
 135C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\arraybuffer.prototype.slice133557788903393158 1
 133C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\lightningcss\package.json133557783498304654 0
 137C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\rimraf\dist\esm\bin.d.mts.map133557788905538160 0
@@ -201,7 +203,7 @@
 136C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\es-abstract\2021\MakeDate.js133557788918263164 0
 120C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\is-data-view133557788902523164 1
 141C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\@parcel\reporter-cli\package.json133557783527344656 0
-109C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\src\index.html133557799401624333 0
+109C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\src\index.html133557842585929249 0
 155C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133557783504629661 0
 125C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\side-channel\test133557788899083169 1
 130C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\unbox-primitive\.nycrc133557788896938166 0
@@ -10233,5 +10235,3 @@
 121C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\.bin\svgo.ps1133557783552839665 0
 118C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\.bin\which133557788940178164 0
 122C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\node_modules\.bin\which.cmd133557788940178164 0
-110C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.html133557831917947892 0
-117C:\Users\Business\Desktop\UOC\Segundo semestre\Herramientas HTML y CSS I\herramientas-html-css\dist\index.0641b553.js133557831917947892 0
